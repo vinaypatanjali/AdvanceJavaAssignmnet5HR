@@ -1,0 +1,15 @@
+com\nagarro\service\HRService.class
+com\nagarro\config\WebServletConfiguration.class
+com\nagarro\controller\WebController.class
+com\nagarro\utils\DbConstants.class
+com\nagarro\utils\Constants.class
+com\nagarro\config\MvcConfig.class
+com\nagarro\boot\exceptionhandler\CustomRestExceptionHandler.class
+com\nagarro\dao\HibernateDaoImpl.class
+com\nagarro\utils\Views.class
+com\nagarro\models\Employee.class
+com\nagarro\dao\HibernateDao.class
+com\nagarro\boot\exceptionhandler\ApiError.class
+com\nagarro\service\HRServiceImpl.class
+com\nagarro\utils\Fields.class
+com\nagarro\models\User.class
